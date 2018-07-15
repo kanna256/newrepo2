@@ -1,2 +1,7 @@
 created new branches
+<<<<<<< HEAD
 i want to merge the branch
+
+C.txt file is not found in central
+=======
+>>>>>>> parent of e6d7ec3... tryoung to merge
